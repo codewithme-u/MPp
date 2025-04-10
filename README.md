@@ -1,1 +1,2 @@
-# MPp
+git init
+git add .
